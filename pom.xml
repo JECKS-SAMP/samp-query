@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.github.username</groupId>
+    <artifactId>samp-query</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+</dependency>
